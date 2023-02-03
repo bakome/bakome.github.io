@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am experienced and pragmatic Software Engineer with a demonstrated history of working in the computer engineering industry more than 10 years. My skills include PHP, C++, Java, JavaScript and tons of other programming languages and tools for building software. I consider myself as a strong engineering professional with a focus in Web Development. Moreover, I like to experiment with ML, AI and blockchain technologies.
+I am an experienced and pragmatic Software and DevOps Engineer with a demonstrated history of working in the computer engineering industry for more than 14 years. My skills include JavaScript, Python, Go, PHP, C++, Java, IaaC, Docker, Kubernetes, Data pipelines, and other programming languages and tools for building software, tools, processes, and infrastructures. My professional engineering focus is on Software Development, DevOps, and Data Engineering. Moreover, I like to experiment with ML, AI, and blockchain technologies.
 
-I am dedicated to bringing high-quality software solutions for complex projects using well-known and proven software approach - Domain Driven Design and increasing the code quality with software development processes like TDD and BDD.
+Dedicated to bringing high-quality software and infrastructure solutions for complex projects using a well-known and proven software approach - Domain Driven Design, best DevOps practices, best Data Engineering practices, and increasing the code quality in all areas with software development processes like TDD and BDD. Also, I am developing high-quality DevOps solutions and tools to support the whole SDLC from development to deployment.
 
-I am a strong supporter for good design and clean code in an enthusiastic way.
+I am a strong supporter of good design and clean code in an enthusiastic way.  
+
 
 ### Contact me
 
