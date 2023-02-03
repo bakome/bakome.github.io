@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One level of abstraction per function - Simplification"
-date:   2020-08-24 16:40:50 +0100
+date:   2023-08-24 16:40:50 +0100
 categories: Code Quality
 ---
 
